@@ -153,5 +153,10 @@ plt.show()
 
 <img width="1242" height="1198" alt="image" src="https://github.com/user-attachments/assets/21951515-8748-403b-8c45-e13c962a5098" />
 
+
+
+
+
+
 ## RESULT:
 Thus, the ASK and FSK were performed using Google Colab.

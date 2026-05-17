@@ -38,7 +38,7 @@ decoded = (demod[::fs // br] > 0.25).astype(int)
 # Plot
 plt.figure(figsize=(10, 9))
 plt.suptitle(
-    "NAME : KRITHI.V\nREG NO : 212224060128",
+    "NAME : SAILAKSHMI \nREG NO : 212224060227",
     fontsize=12,
     fontweight='bold'
 )
@@ -146,7 +146,7 @@ plt.show()
 ## OUTPUT WAVEFORM:
 #### ASK:
 
-<img width="907" height="780" alt="image" src="https://github.com/user-attachments/assets/ac5bda9e-fb64-4ee8-813e-8bb0e196f17d" />
+<img width="1227" height="1116" alt="image" src="https://github.com/user-attachments/assets/f6a242e8-258b-41f1-977c-de984e20f073" />
 
 
 #### FSK:

@@ -112,7 +112,7 @@ demod = np.repeat(dec, bd)
 # Plot
 plt.figure(figsize=(10, 10))
 plt.suptitle(
-    "NAME : KRITHI.V\nREG NO : 212224060128",
+    "NAME : SAILAKSHMI \nREG NO : 212224060227",
     fontsize=12,
     fontweight='bold'
 )
@@ -151,7 +151,7 @@ plt.show()
 
 #### FSK:
 
-<img width="932" height="710" alt="image" src="https://github.com/user-attachments/assets/78ab710b-c9d2-4a49-a8ba-3c5206dc87c9" />
+<img width="1242" height="1198" alt="image" src="https://github.com/user-attachments/assets/21951515-8748-403b-8c45-e13c962a5098" />
 
 
 ## RESULT:
